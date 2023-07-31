@@ -1,4 +1,4 @@
-# Alcohol-Gun
+# Alcohol based Rocket Launcher
 In this project, I made a launcher made out of salvaged parts that propels a plastic soda bottle that is primed with alcohol (alcohol hand sanitiser).
 ![Screenshot 2023-07-31 112906](https://github.com/ChiragKotian/Alcohol-Gun/assets/117931123/51eb039c-0447-4d15-b909-605033a388b4)
 
