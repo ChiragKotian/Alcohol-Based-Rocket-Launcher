@@ -38,4 +38,4 @@ https://github.com/ChiragKotian/Alcohol-Gun/assets/117931123/225a60fb-bcbe-4f0f-
 
 ## Credits:
 
-_This project is solely made by [me](https://github.com/ChiragKotian) as a fun project to make use of leftover alcohol-based sanitisers after the pandemic._
+_This project was solely made by [me](https://github.com/ChiragKotian) as a fun project to make use of leftover alcohol-based sanitisers after the pandemic._
